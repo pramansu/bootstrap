@@ -1,3 +1,41 @@
-body{
-    background-color: aqua;
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-container {
+    background-color: #cbcacc;
+}
+
+.banner-column {
+    background-color: #8e8c8e;
+}
+
+.navbar-container {
+    background-color: #262d3b;
+
+}
+
+.about-container {
+    background-color: #1cb9b9;
+}
+
+.education-container {
+    background-color: #eeedef;
+}
+
+.bg-redtype {
+    background-color: #fa8580;
+}
+
+.bg-redtype-color {
+    color: #fa8580;
+}
+
+.cirle {
+    background-color: #fa8580;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    
+
 }
