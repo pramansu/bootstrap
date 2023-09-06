@@ -56,18 +56,18 @@ body {
     
 }
 .footer{
-    background-color: #248eb5;
+    background-color: ;
 }
 .circle-logo{
     height: 75px;
     width: 75px;
     border-radius: 50%;
     display: inline-block;
-    background-color: white;
+    background-color: ;
     font-size: 40px;
     text-align: center;
     color: 
 }
 .circle-logo:hover{
-    background-color: ;
+    background-color:;
 }
